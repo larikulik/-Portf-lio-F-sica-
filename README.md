@@ -7,3 +7,16 @@ Eles já estão liberados para o senhor como email: browngon@gmail.com.
 Espero que goste, e qualquer duvida pode me mandar um email em larissakulik@alunos.utfpr.edu.br. 
 
 Att Larissa Wierzynski Kulik
+
+Como fazer o dowload da imagem:
+
+1. Clica no arquivo desejado
+2. ![image](https://user-images.githubusercontent.com/57295363/131718440-17ec5dd0-4f60-4ca9-a6cd-2ceff754e0fa.png)    Clica neste botão!
+
+
+Como usar no Drive:
+
+1. Estrar no link do respositorio 
+2. ![image](https://user-images.githubusercontent.com/57295363/131718605-9e65b7d3-6715-4639-8f73-72098157d8f2.png)    Clicar aqui!
+
+
